@@ -4,5 +4,9 @@ Bienenidos a aportar novedades y a usar el código escrito para ahorrar tiempo.
 
 git clone https://github.com/peprodbar/uno.git
 
+Carpeta game
+cd game
+python3 main.py
+
 Saludos,
 JoRoBar.
