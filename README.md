@@ -9,5 +9,12 @@ Carpeta game
 cd game
 python3 main.py
 ```
+
+Carpeta charts
+``` sh
+cd charts
+python3 main.py
+```
+
 Saludos,
 JoRoBar.
